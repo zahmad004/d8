@@ -706,7 +706,7 @@ $settings['container_yamls'][] = $app_root . '/' . $site_path . '/services.yml';
  * To enable the trusted host mechanism, you enable your allowable hosts
  * in $settings['trusted_host_patterns']. This should be an array of regular
  * expression patterns, without delimiters, representing the hosts you would
- * like to allow.
+ * like to alll;kow.
  *
  * For example:
  * @code
